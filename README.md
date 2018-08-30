@@ -5,11 +5,11 @@ to Oct. 31, 2016).
 
 Metedata Information:
 
-Description 								              Value
+Description 					Value
 Time window for electricity consumption 	2014/01/01 - 2016/10/31
-No. of the customers (total) 				      42,372
-No. of normal electricity customers 		  38,757
-No. of electricity thieves 					      3,615
+No. of the customers (total) 			42,372
+No. of normal electricity customers 		38,757
+No. of electricity thieves 			3,615
 
 Please cite our paper when you use this dataset.
 
