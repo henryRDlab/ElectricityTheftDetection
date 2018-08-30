@@ -3,14 +3,6 @@ This is a realistic electricity consumption dataset released by State Grid Corpo
 This dataset contains the electricity consumption data of 42,372 electricity customers within 1,035 days (from Jan. 1, 2014 
 to Oct. 31, 2016).
 
-Metedata Information:
-
-Description 					Value
-Time window for electricity consumption 	2014/01/01 - 2016/10/31
-No. of the customers (total) 			42,372
-No. of normal electricity customers 		38,757
-No. of electricity thieves 			3,615
-
 Please cite our paper when you use this dataset.
 
 Zibin Zheng, Yatao Yang, Xiangdong Niu, Hong-Ning Dai, Yuren Zhou, "Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids", IEEE Transactions on Industrial Informatics,vol. 14, no. 4, pp. 1606-1615, April 2018 Publication year: 2018
