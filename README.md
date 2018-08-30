@@ -1,7 +1,7 @@
 # Electricity Theft Detection
 This is a realistic electricity consumption dataset released by State Grid Corporation of China (http://www.sgcc.com.cn/). 
 This dataset contains the electricity consumption data of 42,372 electricity customers within 1,035 days (from Jan. 1, 2014 
-to Oct. 31, 2016). Please download all the three zip files and unzip them together.
+to Oct. 31, 2016). Please download all the three zip files (data.zip, data.z01 and data.z02) and unzip them together.
 
 For more details about this paper, please refer to our paper "Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids" (https://ieeexplore.ieee.org/document/8233155/).
 
