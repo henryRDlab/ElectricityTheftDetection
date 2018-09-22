@@ -5,6 +5,7 @@ to Oct. 31, 2016). Please download all the three zip files (data.zip, data.z01 a
 
 For more details about this paper, please refer to our paper "Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids" (https://ieeexplore.ieee.org/document/8233155/).
 
+## Cite
 Please cite our paper when you use this dataset.
 
 ### [Plain Text]
