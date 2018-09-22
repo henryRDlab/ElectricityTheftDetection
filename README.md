@@ -8,12 +8,12 @@ For more details about this paper, please refer to our paper "Wide and Deep Conv
 ## Cite
 Please cite our paper when you use this dataset.
 
-### [Plain Text]
+#### [Plain Text]
 ```
 Zibin Zheng, Yatao Yang, Xiangdong Niu, Hong-Ning Dai, Yuren Zhou, "Wide and Deep Convolutional Neural Networks for Electricity-Theft Detection to Secure Smart Grids", IEEE Transactions on Industrial Informatics,vol. 14, no. 4, pp. 1606-1615, April 2018 Publication year: 2018
 ```
 
-### [Bibtex Entry]
+#### [Bibtex Entry]
 ```
 @ARTICLE{ZZheng:TII2018, 
 	author={Z. Zheng and Y. Yang and X. Niu and H. Dai and Y. Zhou}, 
